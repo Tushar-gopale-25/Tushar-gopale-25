@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-- 👋 Hi, Tushar Gopale here.<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'gopaletushar5@gmail.com' , mobile: '9699283024' }<br>- ⭐ Github Profile - https://github.com/Tushar-gopale-25<br>- 🌃 Computer Application Student<br>- 🐱‍ Intrested in learning latest technologies. 
+- 👋 Hi, Tushar Gopale here.<br>-  💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'gopaletushar5@gmail.com' , mobile: '9699283024' }<br>- ⭐ Github Profile - https://github.com/Tushar-gopale-25br>- 🌃 Computer Application Student<br>- 🐱‍ Intrested in learning latest technologies. 
 
 
 
@@ -35,4 +35,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Tushar-gopale-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tushar-gopale-25&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rohit-shinde-26&icon=2&color=1)](https://visitcount.itsvg.in)
+
